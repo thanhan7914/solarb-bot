@@ -1,0 +1,30 @@
+[[programs]]
+address = "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+name = "Jupiter V6"
+program_type = "DEX Aggregator"
+dex = false
+[[programs]]
+address = "King7ki4SKMBPb3iupnQwTyjsq294jaXsgLmJo8cb7T"
+name = "Arb program"
+program_type = "ARB"
+dex = true
+[[programs]]
+address = "9GCBb4NsSDRuEkkGfQkN37oppmMVPops5sXDWhAKAvQQ"
+name = "Arb program"
+program_type = "ARB"
+dex = true
+[[programs]]
+address = "CroWg74XNDF8UMnAZVbXx49iVj7iJ7b4CsqTCVWF7aK"
+name = "Arb program"
+program_type = "ARB"
+dex = true
+[[programs]]
+address = "3AQz4t3ShixZWw5vhvkAindHhMco3s12gxgvGuMeh2Yg"
+name = "Arb program"
+program_type = "ARB"
+dex = true
+[[programs]]
+address = "8dDdemFWqzrZw6GduJ2CkKiwwWbMA5ay9s5J4RTiaFWY"
+name = "Arb program"
+program_type = "ARB"
+dex = true

@@ -1,0 +1,15 @@
+/target
+/solana_data
+secret
+dev.json
+dev
+wallet.json
+wallet
+*wallet
+config.toml
+config_dev.toml
+*routes.toml
+.env
+payer*
+solv.toml
+*.log

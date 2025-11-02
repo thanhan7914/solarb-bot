@@ -1,0 +1,26 @@
+[rpc]
+url = ""
+websocket_url = ""
+
+[grpc]
+url = ""
+token = ""
+enabled = true
+
+[bot]
+mint = "So11111111111111111111111111111111111111112"
+minimum_profit = 100_000
+# brent_method, golden_section, ternary
+optimization_method = "ternary"
+price_threshold = 0.001
+max_hops = 3
+optimization_amount_percent = 100
+routes_batch_size = 40
+enabled_slippage = false
+slippage_bps = 0
+
+[watcher]
+only_succeed = false
+only_failed = false
+max_pools = 100
+max_routes = 100_000

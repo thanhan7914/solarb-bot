@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:
+  solarb-bot:
+    build: .
+    container_name: solarb-bot
+    stdin_open: true
+    tty: true
+    volumes:
+      - .:/app
+      - ./solana_data:/root/.config/solana
+      - cargo_cache:/root/.cargo
+    working_dir: /app
+
+volumes:
+  cargo_cache:
