@@ -7,7 +7,7 @@ A real-time arbitrage trading bot built in Rust for the Solana blockchain. The b
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:thanhan7914/solarb-bot.git
 cd solarb-bot
 ```
 
@@ -78,12 +78,6 @@ ls wallet.json
 
 ```bash
 cargo run --release
-```
-
-For devnet testing:
-
-```bash
-cargo run --release --features devnet
 ```
 
 ### Docker Deployment
