@@ -1,5 +1,7 @@
 # Solarb Bot - Solana Arbitrage Trading Bot
 
+[New version](https://github.com/thanhan7914/solarb-v2)
+
 A real-time arbitrage trading bot built in Rust for the Solana blockchain. The bot monitors multiple DEXs (Decentralized Exchanges) simultaneously, identifies profitable arbitrage opportunities, and executes trades automatically.
 
 ## Installation
@@ -169,3 +171,4 @@ Here are some example transactions demonstrating the bot in action:
 ## Disclaimer
 
 Trading cryptocurrency involves substantial risk. Use at your own risk. The authors are not responsible for any losses incurred while using this bot.
+
